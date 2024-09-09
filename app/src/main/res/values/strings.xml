@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test Apex</string>
+    <string name="error_api">Ocurrio un error al ejecutar el Api</string>
+    <string name="error_unknown">Ocurrio un error</string>
+    <string name="error_connection">Ocurrio un error al conectarse al servidor</string>
+    <string name= "retry">Intentar nuevamente</string>
+
+</resources>
